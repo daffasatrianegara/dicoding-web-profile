@@ -116,3 +116,41 @@
 .info {
     padding-left: 25px;
 }
+
+.footer-container {
+    width: 100%;
+}
+
+.footer {
+    background-color: #3C3D37;
+    padding: 20px;
+}
+
+.text-footer {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.footer-content {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    gap: 1rem;
+}
+
+.img-footer {
+    width: 50px;
+    cursor: pointer;
+}
+
+.bg-white {
+    background-color: white;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
